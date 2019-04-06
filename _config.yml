@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Code Cats Blog
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Welcome to the blog site. The purpose of the blog is to share ideas with other coders and consistently improve my work.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
